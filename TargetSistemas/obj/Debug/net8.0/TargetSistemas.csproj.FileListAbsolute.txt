@@ -1,0 +1,14 @@
+C:\Users\rafae\source\repos\TargetSistemas\TargetSistemas\bin\Debug\net8.0\TargetSistemas.exe
+C:\Users\rafae\source\repos\TargetSistemas\TargetSistemas\bin\Debug\net8.0\TargetSistemas.deps.json
+C:\Users\rafae\source\repos\TargetSistemas\TargetSistemas\bin\Debug\net8.0\TargetSistemas.runtimeconfig.json
+C:\Users\rafae\source\repos\TargetSistemas\TargetSistemas\bin\Debug\net8.0\TargetSistemas.dll
+C:\Users\rafae\source\repos\TargetSistemas\TargetSistemas\bin\Debug\net8.0\TargetSistemas.pdb
+C:\Users\rafae\source\repos\TargetSistemas\TargetSistemas\obj\Debug\net8.0\TargetSistemas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\source\repos\TargetSistemas\TargetSistemas\obj\Debug\net8.0\TargetSistemas.AssemblyInfoInputs.cache
+C:\Users\rafae\source\repos\TargetSistemas\TargetSistemas\obj\Debug\net8.0\TargetSistemas.AssemblyInfo.cs
+C:\Users\rafae\source\repos\TargetSistemas\TargetSistemas\obj\Debug\net8.0\TargetSistemas.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\TargetSistemas\TargetSistemas\obj\Debug\net8.0\TargetSistemas.dll
+C:\Users\rafae\source\repos\TargetSistemas\TargetSistemas\obj\Debug\net8.0\refint\TargetSistemas.dll
+C:\Users\rafae\source\repos\TargetSistemas\TargetSistemas\obj\Debug\net8.0\TargetSistemas.pdb
+C:\Users\rafae\source\repos\TargetSistemas\TargetSistemas\obj\Debug\net8.0\TargetSistemas.genruntimeconfig.cache
+C:\Users\rafae\source\repos\TargetSistemas\TargetSistemas\obj\Debug\net8.0\ref\TargetSistemas.dll
